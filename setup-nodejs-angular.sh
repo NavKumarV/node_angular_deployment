@@ -2,6 +2,15 @@
 
 echo "
 ----------------------
+Update apt
+----------------------
+"
+
+# update dependencies
+sudo apt-get update
+
+echo "
+----------------------
   NODE & NPM
 ----------------------
 "
